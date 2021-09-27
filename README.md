@@ -40,4 +40,4 @@ People know me as a person who listen to others request and fullfil them even he
 
 # What I am learning yet
 
-I am currently learning Redux, Gatsby and many things. I am learning programming from this [Repo](https://panacloud.github.io/bootcamp-2020/)
+I am currently learning Redux, Gatsby and many things. I am learning programming from this [Repo](https://panacloud.github.io/bootcamp-2020/).
