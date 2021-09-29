@@ -4,7 +4,7 @@
 I started programming a year ago. I am not currently an advanced developer but will become if God will. I am currently working on a project called motivational-reminders. The server and client repo is located in my GitHub showcase you can check: [rest-server](https://github.com/SaadFarhanIdress/motivational-reminders-rest-server)  [client](https://github.com/SaadFarhanIdress/motivational-reminders-client). I had created GQL server for this project also. You can check it [gql-server](https://github.com/SaadFarhanIdress/motivational-reminders-gql-server). I am working in this project still and will make it more advance.
 
 # What I can do
-I cannot do something advance. I can create GraphQL server (with MongoDB), REST server (with MongoDB), Application with Context API and React.
+I cannot do something advance. I can create GraphQL server (with MongoDB), REST server (with MongoDB), Application with Context API and React. I can add firebase notification feature to react app and can host to firebase. I can create test files for react. I can create react app with typescript.
 
 # What I am known for
 People know me as a person who listen to others request and fullfil them even he have any urgent work.
