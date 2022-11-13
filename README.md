@@ -1,7 +1,8 @@
 <h1>Assalamu Alaykum, I am Saad Farhan.</h1>
 
 ## Fullstack Application Developer
-A boy from Pakistan fell in love with coding.
+
+Programming nerd. 🤪
 - 🌍 I'm based in Karachi, Pakistan.
 - ✉️ You can contact me at saadfarhan347@gmail.com
 - 🧠 I'm learning about Web3, Serverless API development, Gatsby, TypeScript.
@@ -12,9 +13,7 @@ A boy from Pakistan fell in love with coding.
 <a href="https://www.github.com/codeaye" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SaadFarhanIdress?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<a href="https://www.twitter.com/IamSaadFarhan" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/IamSaadFarhan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+<a href="https://www.twitter.com/IamSaadFarhan" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/IamSaadFarhan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
                 
 ### Skills 
                 
