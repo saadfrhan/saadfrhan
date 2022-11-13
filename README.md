@@ -1,43 +1,65 @@
-<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Saad Farhan.</h1>
+<h1>Assalamu Alaykum, I am Saad Farhan.</h1>
 
-# Who am I
-I started programming a year ago. I am not currently an advanced developer but will become if God will. I am currently working on a project called motivational-reminders. The server and client repo is located in my GitHub showcase you can check: [rest-server](https://github.com/SaadFarhanIdress/motivational-reminders-rest-server)  [client](https://github.com/SaadFarhanIdress/motivational-reminders-client). I had created GQL server for this project also. You can check it [gql-server](https://github.com/SaadFarhanIdress/motivational-reminders-gql-server). I am working in this project still and will make it more advance.
+## Fullstack Application Developer
+A boy from Pakistan fell in love with coding.
+- 🌍 I'm based in Karachi, Pakistan.
+- ✉️ You can contact me at saadfarhan347@gmail.com
+- 🧠 I'm learning about Web3, Serverless API development, Gatsby, TypeScript.
+- 🔭 I’m currently working on my small TypeScript CLI projects and practcing JavaScript.
+- 💬 Ask me about Javascript, Typescript, React, Gatsby and Svelte.
+- ⚡ Fun fact, I got shy when I meet my best friend.
 
-# What I can do
-I cannot do something advance. I can create GraphQL server (with MongoDB as database and JWT and bcrypt for data security), REST server (with MongoDB as database and bcrypt and JWT for data security). I can add firebase notification feature to react app and can host to firebase. I can create typescript react apps.
+<a href="https://www.github.com/codeaye" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/SaadFarhanIdress?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-# What I am known for
-People know me as a person who listen to others request and fullfil them even he have any urgent work.
-
-# Which things I used
+<a href="https://www.twitter.com/IamSaadFarhan" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/IamSaadFarhan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a>
+                
+### Skills 
+                
 <p align="left">
-
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> 
-<a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> </p>
-
-# How can some one reach me
-<p align="left">
-  <a target="blank" href="https://linktre.ee/saad_farhan"><img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/h90nveymaytblh5fldz8" alt="@saad_farhan" height="30" width="30" />&nbsp; All links in one page</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
+<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
+                    
+### Socials
+                  
+<p align="left">
+<a href="https://discord.com/users/#2758" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.facebook.com/https://www.facebook.com/saad.farhan.347/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/SaadFarhanIdress" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/saadfarhan_321" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/IamSaadFarhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-# What is my coding stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaadFarhanIdress&show_icons=true&locale=en&layout=compact" alt="SaadFarhanIdress" /></p> 
+### Badges
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaadFarhanIdress&show_icons=true&locale=en" alt="SaadFarhanIdress" /></p>
+<b>My GitHub Stats</b>
 
-# What I am learning yet
+| Statistic     |  Languages     |
+| :---       |           ---: |
+| ![](https://github-readme-stats.vercel.app/api?username=SaadFarhanIdress&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>     |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadFarhanIdress&hide_border=true&include_all_commits=true&count_private=true&layout=compact)   |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=SaadFarhanIdress&hide_border=true)<br/>  |      |
 
-I am currently learning Redux, Gatsby and many things. I am learning programming from this [Repo](https://panacloud.github.io/bootcamp-2020/).
+<b>Top Repositories</b>
+
+|   <a href="https://github.com/SaadFarhanIdress/selfteachme__js" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadFarhanIdress&repo=selfteachme__js&hide_border=true&locale=en" /></a>   |    <a href="https://github.com/SaadFarhanIdress/shopping-basket-redux-toolkit" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadFarhanIdress&repo=shopping-basket-redux-toolkit&hide_border=true&locale=en" /></a>   |
+| :---       |           ---: |
+| <a href="https://github.com/SaadFarhanIdress/apollo-server-mongodb-boilerplate" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadFarhanIdress&repo=apollo-server-mongodb-boilerplate&hide_border=true&locale=en" /></a>   |
+
+---
+![](https://komarev.com/ghpvc/?username=SaadFarhanIdress)
