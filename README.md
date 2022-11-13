@@ -2,7 +2,7 @@
 
 ## Fullstack Application Developer
 
-a geeky Pakistani programmer. 🤪
+A geeky Pakistani programmer. 🤪
 - 🌍 I live in Karachi, Pakistan.
 - ✉️ You may reach me at saadfarhan347@gmail.com.
 - 🧠 I'm studying Web3, Serverless API development, Gatsby, and TypeScript.
