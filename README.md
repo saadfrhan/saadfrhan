@@ -1,14 +1,14 @@
-<h1>Assalamu Alaykum, I am Saad Farhan.</h1>
+# I am Saad Farhan
 
 ## Fullstack Application Developer
 
-Programming nerd. 🤪
-- 🌍 I'm based in Karachi, Pakistan.
-- ✉️ You can contact me at saadfarhan347@gmail.com
-- 🧠 I'm learning about Web3, Serverless API development, Gatsby, TypeScript.
-- 🔭 I’m currently working on my small TypeScript CLI projects and practcing JavaScript.
-- 💬 Ask me about Javascript, Typescript, React, Gatsby and Svelte.
-- ⚡ Fun fact, I got shy when I meet my best friend.
+a geeky Pakistani programmer. 🤪
+- 🌍 I live in Karachi, Pakistan.
+- ✉️ You may reach me at saadfarhan347@gmail.com.
+- 🧠 I'm studying Web3, Serverless API development, Gatsby, and TypeScript.
+- 🔭 Right now, I'm working on some little TypeScript CLI applications and practising JavaScript.
+- 💬 Get in touch with me regarding JavaScript, React, Gatsby, and Svelte.
+- ⚡ Fun fact: When I met my closest buddy, I became bashful.
 
 <a href="https://www.github.com/codeaye" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SaadFarhanIdress?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
