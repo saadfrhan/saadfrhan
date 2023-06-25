@@ -5,13 +5,13 @@
 A geeky Pakistani programmer. 🤪
 - 🌍 I live in Karachi, Pakistan.
 - ✉️ You may reach me at saadfarhan347@gmail.com.
-- 🧠 I'm studying Web3, Serverless API development, Gatsby, and TypeScript.
-- 🔭 Right now, I'm working on some little TypeScript CLI applications and practising JavaScript.
-- 💬 Get in touch with me regarding JavaScript, React, Gatsby, and Svelte.
-- ⚡ Fun fact: When I met my closest buddy, I became bashful.
+- 🧠 I'm studying Web3, Serverless API development, Next.js, and TypeScript.
+- 🔭 Right now, I'm working on Next.js Projects.
+- 💬 Get in touch with me regarding JavaScript, React, Next.js and TypeScript.
+- 📄 My CV [link](https://drive.google.com/file/d/1QgomJ8b9S1ywiOlfi9eieZb2M6oKyfKy/view?usp=sharing).
 
 <a href="https://www.github.com/codeaye" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SaadFarhanIdress?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/saadfrhan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <a href="https://www.twitter.com/IamSaadFarhan" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/IamSaadFarhan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
                 
@@ -23,9 +23,9 @@ src="https://img.shields.io/github/followers/SaadFarhanIdress?logo=github&style=
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
+<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Gatsby" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
@@ -39,11 +39,7 @@ src="https://img.shields.io/github/followers/SaadFarhanIdress?logo=github&style=
 ### Socials
                   
 <p align="left">
-<a href="https://discord.com/users/#2758" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.facebook.com/https://www.facebook.com/saad.farhan.347/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/SaadFarhanIdress" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/saadfarhan_321" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/IamSaadFarhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://discord.com/users/#2758" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -51,14 +47,14 @@ src="https://img.shields.io/github/followers/SaadFarhanIdress?logo=github&style=
 
 | Statistic     |  Languages     |
 | :---       |           ---: |
-| ![](https://github-readme-stats.vercel.app/api?username=SaadFarhanIdress&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>     |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadFarhanIdress&hide_border=true&include_all_commits=true&count_private=true&layout=compact)   |
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=SaadFarhanIdress&hide_border=true)<br/>  |      |
+| ![](https://github-readme-stats.vercel.app/api?username=saadfrhan&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>     |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saadfrhan&hide_border=true&include_all_commits=true&count_private=true&layout=compact)   |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=saadfrhan&hide_border=true)<br/>  |      |
 
 <b>Top Repositories</b>
 
-|   <a href="https://github.com/SaadFarhanIdress/selfteachme__js" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadFarhanIdress&repo=selfteachme__js&hide_border=true&locale=en" /></a>   |    <a href="https://github.com/SaadFarhanIdress/shopping-basket-redux-toolkit" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadFarhanIdress&repo=shopping-basket-redux-toolkit&hide_border=true&locale=en" /></a>   |
+|   <a href="https://github.com/saadfrhan/nextjs-todoapp" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=saadfrhan&repo=nextjs-todoapp&hide_border=true&locale=en" /></a>   |    <a href="https://github.com/saadfrhan/node-inquirer-sms-cli" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=saadfrhan&repo=node-inquirer-sms-cli&hide_border=true&locale=en" /></a>   |
 | :---       |           ---: |
-| <a href="https://github.com/SaadFarhanIdress/apollo-server-mongodb-boilerplate" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadFarhanIdress&repo=apollo-server-mongodb-boilerplate&hide_border=true&locale=en" /></a>   |
+| <a href="https://github.com/saadfrhan/simple-book-api" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=saadfrhan&repo=simple-book-api&hide_border=true&locale=en" /></a>   |
 
 ---
-![](https://komarev.com/ghpvc/?username=SaadFarhanIdress)
+![](https://komarev.com/ghpvc/?username=saadfrhan)
