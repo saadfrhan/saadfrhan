@@ -8,7 +8,7 @@ A geeky Pakistani programmer. 🤪
 - 🧠 I'm studying Web3, Serverless API development, Next.js, and TypeScript.
 - 🔭 Right now, I'm working on Next.js Projects.
 - 💬 Get in touch with me regarding JavaScript, React, Next.js and TypeScript.
-- 📄 My CV [link](https://drive.google.com/file/d/1QgomJ8b9S1ywiOlfi9eieZb2M6oKyfKy/view?usp=sharing).
+- 📄 My CV [link](https://www.canva.com/design/DAFb3337tIA/nh3rOWE5EiM7U2QB5yQK5A/edit).
 
 <a href="https://www.github.com/codeaye" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/saadfrhan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
