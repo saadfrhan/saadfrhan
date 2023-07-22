@@ -31,9 +31,9 @@ src="https://img.shields.io/github/followers/saadfrhan?logo=github&style=for-the
 
 <b>Top Repositories</b>
 
-|   <a href="https://github.com/saadfrhan/nextjs-todoapp" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=saadfrhan&repo=nextjs-todoapp&hide_border=true&locale=en" /></a>   |    <a href="https://github.com/saadfrhan/node-inquirer-sms-cli" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=saadfrhan&repo=node-inquirer-sms-cli&hide_border=true&locale=en" /></a>   |
+|   <a href="https://github.com/saadfrhan/nextjs-todoapp" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=saadfrhan&repo=nextjs-todoapp&hide_border=true&locale=en" /></a>   |    <a href="https://github.com/saadfrhan/fullstack-nextjs-marketplace" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=saadfrhan&repo=fullstack-nextjs-marketplace&hide_border=true&locale=en" /></a>   |
 | :---       |           ---: |
-| <a href="https://github.com/saadfrhan/simple-book-api" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=saadfrhan&repo=simple-book-api&hide_border=true&locale=en" /></a>   |
+| <a href="https://github.com/saadfrhan/node-inquirer-sms-cli" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=saadfrhan&repo=node-inquirer-sms-cli&hide_border=true&locale=en" /></a>   | <a href="https://github.com/saadfrhan/simple-book-api" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=saadfrhan&repo=simple-book-api&hide_border=true&locale=en" /></a> |
 
 ---
 ![](https://komarev.com/ghpvc/?username=saadfrhan)
