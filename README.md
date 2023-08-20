@@ -1,4 +1,5 @@
-A tech-savvy coder. 🤓
+## A tech-savvy coder. 🤓
+
 - ✉️ Feel free to contact me on [X](https://x.com/saadfarhan547).
 - 🧠 Currently delving into Serverless API development, Next.js, and TypeScript.
 - 🔭 Presently immersed in Next.js projects.
@@ -8,6 +9,6 @@ A tech-savvy coder. 🤓
 <a href="https://www.github.com/codeaye" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/saadfrhan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<a href="https://www.twitter.com/IamSaadFarhan" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/IamSaadFarhan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+<a href="https://x.com/saadfarhan547" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/saadfarhan547?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 ![](https://komarev.com/ghpvc/?username=saadfrhan)
