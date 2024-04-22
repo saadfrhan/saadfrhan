@@ -11,9 +11,3 @@
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-farhan/)
-
-## Stats
-
-<a href="https://wakatime.com/@saadfrhan"><img src="https://wakatime.com/badge/user/018d5b57-62cc-47fb-b023-59d82cd17340.svg?style=for-the-badge" /></a>
-&nbsp; <img src="https://komarev.com/ghpvc/?username=saadfrhan&label=Profile%20views&color=11eb11&style=for-the-badge"
-		alt="shehza-d" />
