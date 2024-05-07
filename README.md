@@ -8,6 +8,9 @@
 - ✉️  For questions or help, drop me an [email](mailto:saadfarhan347@gmail.com).
 - 🌐 Visit my [website](https://saadfarhan.vercel.app).
 
+<img src="https://komarev.com/ghpvc/?username=saadfrhan&label=Profile%20views&color=11eb11&style=for-the-badge"
+		alt="saadfrhan" />
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-farhan/)
