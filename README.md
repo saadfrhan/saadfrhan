@@ -1,4 +1,4 @@
-## Hi, I'm Saad 🤓
+## Hi, I'm Saad 
 
 - 🔭 Presently immersed in Next.js projects.
 - 🧠 Currently building Next.js projects, exploring FastAPI and CLI stuff.
