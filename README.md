@@ -1,6 +1,6 @@
 ## Hi, I'm Saad 
 
-- Currently building Next.js projects, exploring FastAPI and CLI stuff.
+- Currently building Next.js projects.
 - Always up for learning new things!
 - Open to discussing JavaScript, React, Next.js, and TypeScript.
 - Explore my [CV](https://docs.google.com/document/d/1pF2V1SJlKJWsIUARQiJ6rf6X-uFd3kVxMd8ZS30ruZ4/edit?usp=sharing).
