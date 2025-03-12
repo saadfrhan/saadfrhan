@@ -1,8 +1,21 @@
-## Hi, I'm Saad 
+# Hi there, I'm Saad Farhan 👋
 
-- Fan of JavaScript/TypeScript.
-- Always up for learning new things!
-- Open to discussing JavaScript, React, Next.js, and TypeScript.
-- Explore my [CV](https://docs.google.com/document/d/1pF2V1SJlKJWsIUARQiJ6rf6X-uFd3kVxMd8ZS30ruZ4/edit?usp=sharing).
-- For questions or help, drop me an [email](mailto:saadfarhan347@gmail.com).
-- Visit my [website](https://saadfarhan-bio.vercel.app).
+## Full Stack Developer | JavaScript Enthusiast
+
+I'm a passionate developer dedicated to building robust web applications with modern technologies. I love exploring new tech stacks and applying them to solve real-world problems.
+
+### 💻 Tech Stack
+
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+- **Backend**: Node.js, Express
+- **Database**: MongoDB, PostgreSQL
+- **Tools**: Git, Docker, CI/CD
+
+### 📊 GitHub Stats
+
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadfrhan&show_icons=true&theme=radical)
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saad-farhan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadfarhan347@gmail.com)
